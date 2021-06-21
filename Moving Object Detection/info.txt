@@ -1,0 +1,1 @@
+Detects any moving object in the frame.
