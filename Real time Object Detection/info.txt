@@ -1,0 +1,1 @@
+Detects the object in real time by labeling it.
